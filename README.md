@@ -20,4 +20,6 @@ Total:                  $87.27
 
 **Schematic**:
 
-![](Images/4ecf752fda4c25170afbcdaae41d5693.png) ![](Images/bb0c81a622299688815de29dc5c28632.png)
+![](Images/4ecf752fda4c25170afbcdaae41d5693.png) 
+<img src="Images/bb0c81a622299688815de29dc5c28632.png" width="100">
+![](Images/diagram.jpg)
