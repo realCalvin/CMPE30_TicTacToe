@@ -4,6 +4,7 @@
 
 
 **Materials**:
+
 Red/Blue LEDs           $1.62
 
 SJ One Board            $80.00
@@ -16,3 +17,7 @@ Breadboard              $2.80
 
 Total:                  $87.27
 
+
+**Schematic**:
+
+![](Images/4ecf752fda4c25170afbcdaae41d5693.png)
