@@ -31,3 +31,5 @@ Total:                  $87.27
 
 <img src="Images/bb0c81a622299688815de29dc5c28632.png" width="450">
 
+
+**Software Used**: The software used to code this project was Eclipse, specially made for the SJ One Board. After the code is written, it is uploaded onto the board with a program called HyperLoad. For debugging and testing out the code, Hercules was used. To make sure certain functions of the code worked, we made it print out messages which were displayed onto Hercules.
