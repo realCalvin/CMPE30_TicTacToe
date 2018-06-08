@@ -23,7 +23,7 @@ Total:                  $87.27
 
 **Schematic**: This is an example of how one pair of diode is attached to the SJ One Board. SJ.1 and SJ.2 represents the two pins it is connected to on the SJ.1 Board. R1 and B1 are both RGB diodes with R1 being the diode displaying red and B1 being the diode displaying blue. The diodes are connected in the arrangement below and with the pins listed. 
 ![](Images/4ecf752fda4c25170afbcdaae41d5693.png) 
-<img src="Images/diagram.jpg" width="500" height="100">
+<img src="Images/diagram.jpg" width="500" height="250">
 
 
 
