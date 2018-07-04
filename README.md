@@ -1,7 +1,7 @@
 # CMPE30_TicTacToe
 
 
-**Description**: A hands on Tic-Tac-Toe game using a SJ One Board, eighteen LEDs, and a breadboard. Like any ordinary Tic-Tac-Toe game, two players take turn to line up three of their marks in a row. Using the four buttons on the SJ One Board, the players are able to move vertically/horziontally and place their marks (red/blue). When one of the players wins a game, the scoreboard on the board will be updated.
+**Description**: A hands on Tic-Tac-Toe game using a SJ One Board, eighteen LEDs, and a breadboard. Like any ordinary Tic-Tac-Toe game, two players take turn to line up three of their marks in a row. Using the four buttons on the SJ One Board, the players are able to move vertically/horizontally and place their marks (red/blue). When one of the players wins a game, the scoreboard on the board will be updated.
 
 
 **Video Demonstration**:
